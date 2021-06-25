@@ -1,4 +1,4 @@
 # Prueba
 Prueba
 Cambios de parte de Fernando.
-delete from usuarios
+delete from empresas
